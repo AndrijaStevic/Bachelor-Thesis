@@ -24,7 +24,7 @@ daily_sentiment_scores.jypnb - Code for sentiment score caclulation using descri
 
 daily_sentiment_scores_both.jypnb - Code for sentiment score calculation using titles and descriptions of articles
 
-financialNews.csv - Financial news articles data retrieved from https://huggingface.co/datasets/Shadow-Blade/financialNews
+financialNews.csv - Financial news articles data retrieved from https://huggingface.co/datasets/Shadow-Blade/financialNews (last accessed on 13.03.2025)
  
 historical_data.csv - Historical data on 97 companies from 02.0.5.2022 until 24.11.2023
 
